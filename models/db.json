@@ -1,0 +1,36 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Advanced CSS",
+        "description": "Introduction to JavaScript programming.",
+        "level": "Intermediate",
+        "duration": 10,
+        "enrollments": 50
+      },
+      {
+        "id": 2,
+        "title": "Advanced Node.js",
+        "description": "Deep dive into Node.js features and patterns.",
+        "level": "advanced",
+        "duration": 15,
+        "enrollments": 30
+      },
+      {
+        "id": 3,
+        "title": "Advanced Node.js3",
+        "description": "Deep dive into Node.js features and patterns.3",
+        "level": "advanced3",
+        "duration": 153,
+        "enrollments": 303
+      },
+      {
+        "id": 24,
+        "title": "Advanced Javascript",
+        "description": "Deep dive into Node.js features and patterns.5",
+        "level": "Intermediate",
+        "duration": 155,
+        "enrollments": 305
+      }
+    ]
+  }
